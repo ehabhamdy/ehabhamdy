@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to driv
 - 📜 Certified AWS Solutions Architect Associate (March 2022)
 - 🎓 DevOps Nanodegree at [Udacity](https://www.udacity.com/)
 - 🇩🇪 Deutsch B1 Stufe, Universität Passau Sprachenzentrum
-- 
+
 ## 💼 Skills
 
 - 💻 Programming Languages: Python, JavaScript, TypeScript, Java
