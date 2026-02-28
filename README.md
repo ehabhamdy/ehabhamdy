@@ -1,49 +1,53 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E03AQGVuANOsY3fDQ/profile-displayphoto-shrink_800_800/0/1686744472300?e=1700092800&v=beta&t=FEpeJy3zCc1FWkdwutYsDsdnxWxKVPO68MJgmR4gZn0" alt="Ehab Hussein" width="200" height="200">
-</p>
+# Hello, I'm Ehab
 
-# 👋 Hello, I'm Ehab
+Software Engineer | Tech Enthusiast | Lifelong Learner
 
-🚀 Software Engineer | 🌍 Tech Enthusiast | 📚 Lifelong Learner
+I'm passionate about building innovative solutions and tackling complex technical challenges. My experience spans cloud architecture, machine learning integration, and full-stack development across various domains.
 
-Welcome to my GitHub profile! I'm passionate about leveraging technology to drive innovation and solve complex challenges. Here's a glimpse of my journey:
+## Current Work
 
-## 🔧 Current Work Experience
+**Innovation Office at [Signavio (SAP)](https://www.sap.com/)**
 
-- 🌟 Innovation Office at [Signavio (SAP)](https://www.sap.com/): Building cutting-edge products.
-- 🤝 Collaborating with cross-functional teams in data, development, design, and market intelligence to de-risk product backlogs.
-- 🛠️ Developed and integrated Proof of Concepts (POCs) using a tech stack that includes React, TypeScript, Prisma, SAP React UI5, Jest, and more.
-- 💡 Integrating large language models **(LLMS)** while addressing common concerns such as privacy and safety, bias, and long-term maintenance.
+I work on building next-generation products and collaborating with cross-functional teams across data, development, design, and market intelligence to de-risk product backlogs. My recent work includes:
 
+- Developing and integrating proof of concepts using React, TypeScript, Prisma, SAP React UI5, and Jest
+- Integrating large language models (LLMs) with a focus on privacy, safety, bias mitigation, and long-term maintenance
+- Contributing to strategic technical decisions that shape product direction
 
-## 🌱 Other Experiences
+## Previous Experience
 
-- 🌐 Working on the next-generation talent and skill management tool, harnessing knowledge graphs and machine learning.
-- ☁️ Implementing serverless backend modules on AWS, leveraging Lambda, Batch, ECS, and DynamoDB.
-- 📊 Building a knowledge graph based on Tinkerpop property graph hosted on AWS Neptune.
-- 🐍 Creating data ingestion and maintenance pipelines using Python, CQL, and Gremlin.
-- 🔄 Streamlining code delivery with AWS CodeBuild and Docker for CI/CD.
-- 🔄 Migrating from Neo4J to AWS Neptune for improved query performance, backups, and cost-efficiency.
+**Talent and Skill Management Platform**
 
-## 🏆 Certificates and Training
+- Built a next-generation talent management system leveraging knowledge graphs and machine learning
+- Implemented serverless backend modules on AWS using Lambda, Batch, ECS, and DynamoDB
+- Designed and deployed a Tinkerpop property graph on AWS Neptune
+- Created data ingestion and maintenance pipelines using Python, CQL, and Gremlin
+- Established CI/CD workflows with AWS CodeBuild and Docker
+- Led migration from Neo4J to AWS Neptune, resulting in improved query performance, enhanced backup capabilities, and reduced operational costs
 
-- 📜 Certified AWS Solutions Architect Professional (December 2022)
-- 📜 Certified AWS SysOps Administrator (October 2022)
-- 📜 Certified AWS Developer Associate (August 2022)
-- 📜 Certified AWS Solutions Architect Associate (March 2022)
-- 🎓 DevOps Nanodegree at [Udacity](https://www.udacity.com/)
-- 🇩🇪 Deutsch B1 Stufe, Universität Passau Sprachenzentrum
+## Certifications
 
-## 💼 Skills
+- AWS Solutions Architect Professional (December 2022)
+- AWS SysOps Administrator (October 2022)
+- AWS Developer Associate (August 2022)
+- AWS Solutions Architect Associate (March 2022)
+- DevOps Nanodegree, [Udacity](https://www.udacity.com/)
+- Deutsch B1 Stufe, Universität Passau Sprachenzentrum
 
-- 💻 Programming Languages: Python, JavaScript, TypeScript, Java
-- 📊 Database Systems: MySQL, PostgreSQL, Neo4J, Apache Tinkerpop, ElasticSearch, NoSQL
-- 🌐 Web Technologies: React, Angular, Node, Express, tRPC, FastAPI, Spring, REST, GraphQL, HTML, CSS, SASS, Bootstrap, Testing
-- ☁️ Cloud Platforms: AWS, Azure
-- 🛠️ Tools: Git, Linux, Cypress, Swagger, Docker, CloudFormation, Terraform, AWS Amplify
+## Technical Skills
 
-## 📫 Let's Connect
+**Programming Languages:** Python, JavaScript, TypeScript, Java
 
-Feel free to reach out to me via [email](mailto:ehabhamdy2012@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ehabhamdy/) to discuss exciting opportunities, collaborations, or just to chat about tech and innovation.
+**Databases:** MySQL, PostgreSQL, Neo4J, Apache Tinkerpop, ElasticSearch, NoSQL
 
-Thanks for visiting, and happy coding! 🚀
+**Web Technologies:** React, Angular, Node.js, Express, tRPC, FastAPI, Spring, REST, GraphQL, HTML, CSS, SASS, Bootstrap
+
+**Cloud Platforms:** AWS, Azure
+
+**Tools & DevOps:** Git, Linux, Cypress, Swagger, Docker, CloudFormation, Terraform, AWS Amplify, Jest
+
+## Contact
+
+Feel free to reach out via [email](mailto:ehabhamdy2012@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ehabhamdy/). I'm always interested in discussing new opportunities, collaborations, or tech in general.
+
+Thanks for visiting.
