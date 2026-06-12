@@ -1,53 +1,46 @@
-# Hello, I'm Ehab
+# Hi, I'm Ehab
 
-Software Engineer | Tech Enthusiast | Lifelong Learner
+**Senior DevOps Engineer · Cloud Architect** — Berlin, Germany
 
-I'm passionate about building innovative solutions and tackling complex technical challenges. My experience spans cloud architecture, machine learning integration, and full-stack development across various domains.
+I'm a software engineer turned cloud and DevOps specialist. I have a low tolerance for repetitive manual work — so I automate it away — and a genuine fondness for the people I build with. I've spent much of my career teaching, onboarding, and creating tools that make other teams faster. AWS Solutions Architect Professional, Kubernetes-certified, and happiest where cloud architecture, DevOps, and AI meet.
 
-## Current Work
+## What I'm working on
 
-**Innovation Office at [Signavio (SAP)](https://www.sap.com/)**
+**Senior DevOps Engineer at [SAP SE](https://www.sap.com/)** *(May 2024 – present)*
 
-I work on building next-generation products and collaborating with cross-functional teams across data, development, design, and market intelligence to de-risk product backlogs. My recent work includes:
+- Architected a Kubernetes-native monitoring and alerting solution keeping applications at **99% availability** — the system flags problems before customers do
+- Built a full-stack internal tool that automates environment configuration and AI-service integration, cutting setup time by **90%**
+- Led the technical onboarding of several Lines of Business onto the **SAP Joule** generative-AI assistant platform
 
-- Developing and integrating proof of concepts using React, TypeScript, Prisma, SAP React UI5, and Jest
-- Integrating large language models (LLMs) with a focus on privacy, safety, bias mitigation, and long-term maintenance
-- Contributing to strategic technical decisions that shape product direction
+## Previous experience
 
-## Previous Experience
-
-**Talent and Skill Management Platform**
-
-- Built a next-generation talent management system leveraging knowledge graphs and machine learning
-- Implemented serverless backend modules on AWS using Lambda, Batch, ECS, and DynamoDB
-- Designed and deployed a Tinkerpop property graph on AWS Neptune
-- Created data ingestion and maintenance pipelines using Python, CQL, and Gremlin
-- Established CI/CD workflows with AWS CodeBuild and Docker
-- Led migration from Neo4J to AWS Neptune, resulting in improved query performance, enhanced backup capabilities, and reduced operational costs
+- **Software Engineer, SAP Innovation Office** — Took product ideas from whiteboard to deployment using React, TypeScript, Python, and SAP UI5 on BTP and Kubernetes
+- **Cloud Engineer, Minnosphere (msg systems)** — Built a talent-management platform on AWS (Lambda, ECS, Neptune, DynamoDB); led Neo4j → AWS Neptune migration
+- **Fullstack Developer, msg systems** — Angular/NgRx frontends, Java Spring backends, blockchain MVP on AWS Managed Blockchain
+- **Teaching Assistant, Minia University** — Four years teaching Database Systems, Software Engineering, Java, Android, and Web Development
 
 ## Certifications
 
-- AWS Solutions Architect Professional (December 2022)
-- AWS SysOps Administrator (October 2022)
-- AWS Developer Associate (August 2022)
-- AWS Solutions Architect Associate (March 2022)
-- DevOps Nanodegree, [Udacity](https://www.udacity.com/)
-- Deutsch B1 Stufe, Universität Passau Sprachenzentrum
+| Certification | Year |
+|---|---|
+| AWS Solutions Architect — **Professional** | 2022 |
+| AWS Solutions Architect — Associate | 2026 |
+| Certified Kubernetes Application Developer (CKAD) | 2024 |
+| AWS SysOps Administrator | 2022 |
+| AWS Developer — Associate | 2022 |
+| Cloud Native Developer Training (SAP) | 2023 |
 
-## Technical Skills
+## Tech stack
 
-**Programming Languages:** Python, JavaScript, TypeScript, Java
+**Languages:** Python, TypeScript  
+**Cloud:** AWS, Azure, SAP BTP  
+**Platform & DevOps:** Kubernetes, Terraform, Crossplane, Docker, CloudFormation, Jenkins, Azure DevOps, CircleCI, Linux, Git  
+**Web:** React, Node, Express, tRPC, FastAPI, REST, GraphQL, Tailwind, SASS  
+**Data:** PostgreSQL, MySQL, Neo4j, Apache TinkerPop, Elasticsearch, DynamoDB  
+**Quality:** Jest, Cypress, Swagger
 
-**Databases:** MySQL, PostgreSQL, Neo4J, Apache Tinkerpop, ElasticSearch, NoSQL
+## Get in touch
 
-**Web Technologies:** React, Angular, Node.js, Express, tRPC, FastAPI, Spring, REST, GraphQL, HTML, CSS, SASS, Bootstrap
+[Email](mailto:ehabhamdy2012@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ehabhamdy/)
 
-**Cloud Platforms:** AWS, Azure
-
-**Tools & DevOps:** Git, Linux, Cypress, Swagger, Docker, CloudFormation, Terraform, AWS Amplify, Jest
-
-## Contact
-
-Feel free to reach out via [email](mailto:ehabhamdy2012@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ehabhamdy/). I'm always interested in discussing new opportunities, collaborations, or tech in general.
-
-Thanks for visiting.
+Thanks for stopping by.
